@@ -8,7 +8,7 @@ O projeto busca proporcionar uma experiência de aprendizagem organizada, com tr
 
 🌐 **Acesse o projeto:** [coldelearn.pages.dev](https://coldelearn.pages.dev/)
 
-<img src="./assets/print.png"
+<img src="./assets/print.png">
 
 ---
 
